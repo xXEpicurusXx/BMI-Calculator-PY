@@ -1,2 +1,2 @@
 # BMI-Calculator-PY
-Simple begginer program to calculate a person's BMI index
+Simple beginner program to calculate a person's BMI index
